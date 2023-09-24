@@ -6,6 +6,8 @@ TagManager:
   tags:
   - block
   - Dead
+  - block2
+  - block3
   layers:
   - Default
   - TransparentFX
